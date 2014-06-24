@@ -21,7 +21,8 @@ It is basically an open source project.
 Don't expect to buy a compatible board and run it without a minimum knowledge.
 
 
-
+Simonk 3D firmware special edition
+This version is for 3D !!
 
 
 main changes 2.2 -> 2.3
